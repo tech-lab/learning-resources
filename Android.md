@@ -7,6 +7,12 @@ Android Learning Resources
 * [Resources every Android developer must know] (http://www.bongizmo.com/blog/android-resources-each-developer-should-know/) - Blog
 * [Getting Started with Android Development by +Ray Wenderlich] (http://www.raywenderlich.com/5527/getting-started-with-android-development) - Website
 * [Getting Started With Android Development by +Chris Lacy] (https://plus.google.com/104649936579980037256/posts/UQD4e1jgLS1) - Website
+* [Android Programming - The Big Nerd Ranch Guide by Bill Phillips and Brian Hardy] (http://www.amazon.in/Android-Programming-Nerd-Ranch-Guide/dp/0321804333) - Book
+* [The Busy Coder’s Guide to Android Development] (http://www.amazon.in/Busy-Coders-Guide-Android-Development/dp/0981678009)  - Book
+* [Professional Android 4 Application Development] (http://www.amazon.in/Professional-Android-Application-Development-Wrox/dp/812653608X/)
+* [Google’s Android Training] (http://developer.android.com/training/index.html) - Online
+* [Google University’s Android Courses] (https://developers.google.com/university/courses/mobile) - Online
+* [CodePath Android Cliffnotes] (https://github.com/thecodepath/android_guides/wiki) - Online
 
 ## Make Your Apps Tablet Friendly - Learn To User Fragments
 * [Working With Fragments by +Shane Conder] (http://mobile.tutsplus.com/tutorials/android/android-sdk_fragments/)
