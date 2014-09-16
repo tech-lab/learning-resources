@@ -1,7 +1,7 @@
 Android Learning Resources
 ==========================
 
-# Learning Resources
+## Learning Resources
 * [The New Boston - Youtube - Android App development tutorials] (http://www.youtube.com/watch?v=SUOWNXGRc6g&list=PL2F07DBCDCC01493A) - Video
 * [buckysroom - Watch Thousands of Videos and Tutorials for Free!] (https://buckysroom.org/videos.php) -Video
 * [Resources every Android developer must know] (http://www.bongizmo.com/blog/android-resources-each-developer-should-know/) - Blog
@@ -13,6 +13,18 @@ Android Learning Resources
 * [Google’s Android Training] (http://developer.android.com/training/index.html) - Online
 * [Google University’s Android Courses] (https://developers.google.com/university/courses/mobile) - Online
 * [CodePath Android Cliffnotes] (https://github.com/thecodepath/android_guides/wiki) - Online
+
+## Debugging
+* [Android Debug Bridge - adb] (http://developer.android.com/tools/help/adb.html)
+* [Ten basic Android terminal commands you should know] (http://www.androidcentral.com/android-201-10-basic-terminal-commands-you-should-know)
+
+## Emulator
+* [How to install Android 4.4 KitKat in Windows using VirtualBox] (http://www.fixedbyvonnie.com/2014/02/install-android-4-4-kitkat-windows-using-virtualbox/)
+* [8 Tips to Speed Up Your Android ARM Emulator (AVD)] (http://delphi.org/2013/11/8-tips-to-speed-up-your-android-arm-emulator-avd/)
+* [Faster Android Emulator Alternative – Using VirtualBox] (http://www.bobbychanblog.com/2011/07/faster-android-emulator-alternative-using-virtualbox/)
+* [Virtual Box HowTo] (http://www.android-x86.org/documents/virtualboxhowto)
+* [GenyMotion - User Guide] (https://cloud.genymotion.com/page/doc/)
+* [Speeding Up the Android* Emulator on Intel® Architecture] (https://software.intel.com/en-us/android/articles/speeding-up-the-android-emulator-on-intel-architecture)
 
 ## Make Your Apps Tablet Friendly - Learn To User Fragments
 * [Working With Fragments by +Shane Conder] (http://mobile.tutsplus.com/tutorials/android/android-sdk_fragments/)
@@ -28,3 +40,6 @@ Android Learning Resources
 * [Pull To Refresh Views for Android] (https://github.com/chrisbanes/Android-PullToRefresh)
 * [SwipeListView] (https://github.com/47deg/android-swipelistview) => Slide style Tab Indicator like in the Play Store
 * [Android PagerSlidingTabStrip by +Andreas Stütz] (https://github.com/astuetz/PagerSlidingTabStrip#__sid=0) 
+
+## Misc.
+* [What Is ART & How Is It Different From Dalvik Virtual Machine On Android?] (http://www.addictivetips.com/android/art-vs-dalvik-android-runtime-environments-explained-compared/)
